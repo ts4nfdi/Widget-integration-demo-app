@@ -1,4 +1,4 @@
-## Demo app for Widget integartion 
+## Demo app for Widget integration 
 
 The Demp project for integrating Semantic Lookup Service Widgets in to a React app. 
 
